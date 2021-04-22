@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# adding config.py git ignore note
+# put all my api_keys in config_Jamie.py
+config_Jamie.py
+
+
 # C extensions
 *.so
 
